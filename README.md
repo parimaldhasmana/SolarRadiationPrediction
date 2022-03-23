@@ -1,4 +1,4 @@
-# SolarRediationPrediction
+# Solar Rediation Prediction
 **Introduction**
 
 Solar radiation is the Earth's primary source of energy and has an important role in the surface radiation balance, hydrological cycles, vegetation photosynthesis, and weather and climate extremes. The accurate prediction of solar radiation is therefore very important in both the solar industry and climate research.
@@ -12,7 +12,7 @@ This is useful in managing power distribution from different kinds of sources. 
 **About the dataset**
 This file provides details about Solar Radiation Level. Various factors like temperature, wind speed, humidity and pressure affect the solar radiation level. 
 Our DATASET has 11 predictor variables and 32686 instances to predict the **target** variable(**Radiation**).Description of this dataset can be viewed on the Kaggle website,
-where the data was obtained (https://www.kaggle.com/dronio/SolarEnergy
+where the data was obtained (https://www.kaggle.com/dronio/SolarEnergy)
 
 **Questions**
 
