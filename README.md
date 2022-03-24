@@ -1,4 +1,4 @@
-# Solar Rediation Prediction
+# Solar Radiation Prediction
 **Introduction**
 
 Solar radiation is the Earth's primary source of energy and has an important role in the surface radiation balance, hydrological cycles, vegetation photosynthesis, and weather and climate extremes. The accurate prediction of solar radiation is therefore very important in both the solar industry and climate research.
